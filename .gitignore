@@ -63,6 +63,8 @@ unlinked_spec.ds
 **/android/local.properties
 **/android/**/GeneratedPluginRegistrant.java
 **/android/key.properties
+android/android.zip
+**/android/app/src/debug/
 *.jks
 
 # iOS/XCode related
@@ -112,4 +114,4 @@ app.*.symbols
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
-android/android.zip
+
